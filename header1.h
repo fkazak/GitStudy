@@ -1,1 +1,1 @@
-void xru(int i);
+void xruk(int i, gloat f);
